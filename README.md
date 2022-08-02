@@ -1,4 +1,4 @@
-# NLP DA1
+# NLP DA2
 
 Digital Assignment 2 of NLP CSE4022 Course by Nishant Kashyap 19BCE1727
 
